@@ -1,5 +1,4 @@
 # Machine-Learning-Project
-This is the final project I completed for the course - Machine Learning for Data Science.
 In this project, the goal is to build a classifier that distinguishes images of 20 bird species. 
 
 ## Tools
