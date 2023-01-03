@@ -11,7 +11,7 @@ It was completed by using Keras, Sklearn and Python.
   - Resize all the images to the same size.
   
 **2. Transfer Learning**
-  - Use pretrained models EfficientNetB0 and VGG16 for the last layer
+  - Use pretrained models EfficientNetB0 and VGG16 for the last layer.
 
 
 
